@@ -1,0 +1,8 @@
+{
+  "name": "ntp",
+  "version": "0.0.1",
+  "author": "Kris English",
+  "summary": "Module to manage NTP",
+  "license": "Apache-2.0",
+  "source": "https://"
+}
